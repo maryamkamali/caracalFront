@@ -1,0 +1,37 @@
+[
+	{
+	"name": "food"
+	"price": 500000
+	"remained":100000
+	},
+	{
+	"name": "transportation"
+	"price": 150000
+	"remained":1000
+	},
+	{
+	"name": "dress"
+	"price": 200000
+	"remained":20000
+	},
+	{
+	"name": "child"
+	"price": 500000
+	"remained":20000
+	},
+	{
+	"name": "car"
+	"price": 300000
+	"remained":120000
+	},
+	{
+	"name": "installment"
+	"price": 1000000
+	"remained":0
+	},
+	{
+	"name": "misc"
+	"price": 500000
+	"remained":300000
+	}
+]

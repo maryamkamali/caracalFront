@@ -1,0 +1,55 @@
+{
+	"costs": [
+		{
+			"name": "خوراک",
+			"price": 500000,
+			"remained": 100000,
+			"color": "#ff4444"
+		},
+		{
+			"name": "حمل و نقل",
+			"price": 150000,
+			"remained": 1000,
+			"color": "#ffbb33"
+		},
+		{
+			"name": "پوشاک",
+			"price": 200000,
+			"remained": 20000,
+			"color": "#00C851"
+		},
+		{
+			"name": "فرزندان",
+			"price": 500000, "remained": 20000,
+			"color": "#33b5e5"
+		},
+		{
+			"name": "خودرو",
+			"price": 300000 ,"remained": 120000, "color":"#4D5360"
+		},
+		{
+			"name": "اقساط",
+			"price": 500000,
+			"remained": 300000,
+			"color": "#2BBBAD"
+		},
+		{
+			"name": "سلامتی",
+			"price": 70000,
+			"remained": 30000,
+			"color": "#4285F4"
+		},
+		{
+			"name": "تفریح و سرگرمی",
+			"price": 10000,
+			"remained": 5000,
+			"color": "#0d47a1"
+		},
+		{
+			"name": "متفرقه",
+			"price": 50000,
+			"remained": 30000,
+			"color": "#aa66cc"
+		}
+	]
+}
